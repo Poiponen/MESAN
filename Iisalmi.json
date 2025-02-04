@@ -1,0 +1,253 @@
+{
+  "approvedTime": "2025-02-04T18:39:20Z",
+  "referenceTime": "2025-02-04T18:00:00Z",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      [27.233372, 63.573427]
+    ]
+  },
+
+  {
+      "validTime": "2025-02-04T06:00:00Z",
+      "parameters": [
+        {
+          "name": "t",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-19.1]
+        },
+        {
+          "name": "gust",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "m/s",
+          "values": [1.1]
+        },
+        {
+          "name": "r",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "percent",
+          "values": [83]
+        },
+        {
+          "name": "msl",
+          "levelType": "hmsl",
+          "level": 0,
+          "unit": "hPa",
+          "values": [1028.4]
+        },
+        {
+          "name": "Tiw",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-19.4]
+        },
+        {
+          "name": "tmin",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-18.8]
+        },
+        {
+          "name": "tmax",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-13.9]
+        },
+        {
+          "name": "cb_sig",
+          "levelType": "hmsl",
+          "level": 0,
+          "unit": "m",
+          "values": [9762]
+        },
+        {
+          "name": "cb_sig",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "m",
+          "values": [9675]
+        },
+        {
+          "name": "c_sigfr",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "percent",
+          "values": [0]
+        },
+        {
+          "name": "tcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "ct_sig",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "m",
+          "values": [10171]
+        },
+        {
+          "name": "lcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "hcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "mcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "prtype",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "code",
+          "values": [-9]
+        },
+        {
+          "name": "pmax",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmin",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmedian",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmean",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "prec1h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "prec3h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "prec12h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "prec24h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "frsn1h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "cm",
+          "values": [0]
+        },
+        {
+          "name": "frsn3h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "cm",
+          "values": [0]
+        },
+        {
+          "name": "frsn12h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "cm",
+          "values": [0]
+        },
+        {
+          "name": "frsn24h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "cm",
+          "values": [0]
+        },
+        {
+          "name": "vis",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "km",
+          "values": [42]
+        },
+        {
+          "name": "spp",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "percent",
+          "values": [-9]
+        },
+        {
+          "name": "prsort",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "code",
+          "values": [0]
+        },
+        {
+          "name": "wd",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "degree",
+          "values": [334]
+        },
+        {
+          "name": "ws",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "m/s",
+          "values": [0.4]
+        },
+        {
+          "name": "Wsymb2",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "category",
+          "values": [1]
+        }
+      ]
+    },
