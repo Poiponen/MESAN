@@ -1,0 +1,205 @@
+{
+  "approvedTime": "2025-02-04T17:38:45Z",
+  "referenceTime": "2025-02-04T17:00:00Z",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      [28.162056, 66.120014]
+    ]
+  },
+
+
+  {
+      "validTime": "2025-02-04T08:00:00Z",
+      "parameters": [
+        {
+          "name": "t",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-23.8]
+        },
+        {
+          "name": "gust",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "m/s",
+          "values": [1.4]
+        },
+        {
+          "name": "r",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "percent",
+          "values": [77]
+        },
+        {
+          "name": "msl",
+          "levelType": "hmsl",
+          "level": 0,
+          "unit": "hPa",
+          "values": [1030.2]
+        },
+        {
+          "name": "Tiw",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "Cel",
+          "values": [-24.1]
+        },
+        {
+          "name": "cb_sig",
+          "levelType": "hmsl",
+          "level": 0,
+          "unit": "m",
+          "values": [8042]
+        },
+        {
+          "name": "cb_sig",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "m",
+          "values": [7787]
+        },
+        {
+          "name": "c_sigfr",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "percent",
+          "values": [20]
+        },
+        {
+          "name": "tcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [2]
+        },
+        {
+          "name": "ct_sig",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "m",
+          "values": [8288]
+        },
+        {
+          "name": "lcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "hcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [2]
+        },
+        {
+          "name": "mcc",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "octas",
+          "values": [0]
+        },
+        {
+          "name": "prtype",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "code",
+          "values": [-9]
+        },
+        {
+          "name": "pmax",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmin",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmedian",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "pmean",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "kg/m2/h",
+          "values": [0]
+        },
+        {
+          "name": "prec1h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "prec3h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "mm",
+          "values": [0]
+        },
+        {
+          "name": "frsn1h",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "cm",
+          "values": [0]
+        },
+        {
+          "name": "vis",
+          "levelType": "hl",
+          "level": 2,
+          "unit": "km",
+          "values": [16.5]
+        },
+        {
+          "name": "spp",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "percent",
+          "values": [-9]
+        },
+        {
+          "name": "prsort",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "code",
+          "values": [0]
+        },
+        {
+          "name": "wd",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "degree",
+          "values": [134]
+        },
+        {
+          "name": "ws",
+          "levelType": "hl",
+          "level": 10,
+          "unit": "m/s",
+          "values": [0.4]
+        },
+        {
+          "name": "Wsymb2",
+          "levelType": "hl",
+          "level": 0,
+          "unit": "category",
+          "values": [2]
+        }
+      ]
+    },
